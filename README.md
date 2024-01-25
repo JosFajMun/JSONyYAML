@@ -1,12 +1,11 @@
 # TAREA LMSGI JSON vs YAML
 ![Imagen de encabezado](https://needone.app/content/images/size/w1000/2022/12/yaml-vs-json.png)
 
-# Objetivos
-
-- [x] Crear repositorio público github
-- [x] Buscar información sobre YAML
-- [x] Buscar información sobre JSON
-- [x] Elaborar un comparativo con los datos mas importantes
+># Objetivos
+>- [x] Crear repositorio público github
+>- [x] Buscar información sobre YAML
+>- [x] Buscar información sobre JSON
+>- [x] Elaborar un comparativo con los datos mas importantes
 
 # Documentación sobre YAML y JSON
 
@@ -14,7 +13,7 @@
 
 ### Descripción
 
-YAML es un formato de serialización de datos que las personas pueden comprender y fácil de escribir (YAML no es un lenguaje de marcas). A menudo se utiliza para la configuración de aplicaciones y archivos de datos donde es esencial que sea legible y entendible. 
+[YAML](https://en.wikipedia.org/wiki/YAML) es un formato de serialización de datos que las personas pueden comprender y fácil de escribir _(YAML no es un lenguaje de marcas)_. A menudo se utiliza para la configuración de aplicaciones y archivos de datos donde es esencial que sea legible y entendible. 
 
 ### Características Principales
 
@@ -48,7 +47,7 @@ intereses:
 
 ### Descripción
 
-JSON es un formato de intercambio de datos ligero y fácil de leer. Se utiliza comúnmente para transmitir datos entre un servidor y una aplicación web, usualmente se emplea como alternativa a XML. Aunque su nombre incluye "JavaScript," JSON es un formato independiente de cualquier lenguaje de programación.
+[JSON](https://en.wikipedia.org/wiki/JSON) es un formato de intercambio de datos ligero y fácil de leer. Se utiliza comúnmente para transmitir datos entre un servidor y una aplicación web, usualmente se emplea como alternativa a XML. Aunque su nombre incluye "JavaScript," JSON es un formato independiente de cualquier lenguaje de programación.
 
 ### Características Principales
 
