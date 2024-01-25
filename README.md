@@ -1,13 +1,20 @@
-# JSON y YAML
-Tarea sobre informacion de JSON y YAML
+# TAREA LMSGI JSON vs YAML
+![Imagen de encabezado](https://needone.app/content/images/size/w1000/2022/12/yaml-vs-json.png)
+
+# Objetivos
+
+- [x] Crear repositorio público github
+- [x] Buscar información sobre YAML
+- [x] Buscar información sobre JSON
+- [x] Elaborar un comparativo con los datos mas importantes
 
 # Documentación sobre YAML y JSON
 
-## YAML (YAML Ain't Markup Language)
+## YAML [^1]
 
 ### Descripción
 
-YAML es un formato de serialización de datos que las personas pueden comprender y fácil de escribir. Su nombre es un acrónimo que significa "YAML Ain't Markup Language" (YAML no es un lenguaje de marcas). A menudo se utiliza para la configuración de aplicaciones y archivos de datos donde es esencial que sea legible y entendible. 
+YAML es un formato de serialización de datos que las personas pueden comprender y fácil de escribir (YAML no es un lenguaje de marcas). A menudo se utiliza para la configuración de aplicaciones y archivos de datos donde es esencial que sea legible y entendible. 
 
 ### Características Principales
 
@@ -37,7 +44,7 @@ intereses:
 
 ```
 
-## JSON (JavaScript Object Notation)
+## JSON [^2]
 
 ### Descripción
 
@@ -69,6 +76,9 @@ JSON es un formato de intercambio de datos ligero y fácil de leer. Se utiliza c
 
 ```
 
-## Conclusión
+> [!IMPORTANT]
+> ## Conclusión
+>Tanto YAML como JSON son formatos de serialización de datos para el intercambio de los mismo legibles por el ser humano. La elección entre ellos depende de las preferencias y requisitos específicos del proyecto. Ambos son ampliamente utilizados en el desarrollo de software y la transmisión de datos en la web.
 
-Tanto YAML como JSON son formatos de serialización de datos para el intercambio de los mismo legibles por el ser humano. La elección entre ellos depende de las preferencias y requisitos específicos del proyecto. Ambos son ampliamente utilizados en el desarrollo de software y la transmisión de datos en la web.
+[^1]: Su nombre es un acrónimo que significa "YAML Ain't Markup Language".
+[^2]: Su nombre es un acrónimo que significa JavaScript Object Notation.
